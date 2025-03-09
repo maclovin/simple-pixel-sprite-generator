@@ -45,5 +45,11 @@ python3 simple-pixel-sprite-generator.py --input path/to/images/ --output path/t
 - Feel free to adjust or expand upon this documentation as needed for your project.
 
 ## Samples
-TBD
+![Textures Samples](https://github.com/maclovin/simple-pixel-sprite-generator/blob/main/doc/textures-before-after.png?raw=true)
+
+
+![Generated Spritemap](https://github.com/maclovin/simple-pixel-sprite-generator/blob/main/doc/spritemap.png?raw=true)
+
+
+![Unity Scene Using Pixelated Textures](https://github.com/maclovin/simple-pixel-sprite-generator/blob/main/doc/unity-example.png?raw=true)
 
