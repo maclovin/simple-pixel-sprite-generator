@@ -39,11 +39,6 @@ Process all images in a directory, specify an output folder, and generate a spri
 python3 simple-pixel-sprite-generator.py --input path/to/images/ --output path/to/output/ --spritemap
 ```
 
-## Acknowledgements
-- This tool leverages the Pillow library for image processing.
-- Part of the "color auto-adjustment" code and the documentation of the methods was generated using ChatGPT o3-mini-high model.
-- Feel free to adjust or expand upon this documentation as needed for your project.
-
 ## Samples
 ![Textures Samples](https://github.com/maclovin/simple-pixel-sprite-generator/blob/main/doc/textures-before-after.png?raw=true)
 
@@ -53,3 +48,7 @@ python3 simple-pixel-sprite-generator.py --input path/to/images/ --output path/t
 
 ![Unity Scene Using Pixelated Textures](https://github.com/maclovin/simple-pixel-sprite-generator/blob/main/doc/unity-example.png?raw=true)
 
+## Acknowledgements
+- This tool leverages the Pillow library for image processing.
+- Part of the "color auto-adjustment" code and the documentation of the methods was generated using ChatGPT o3-mini-high model.
+- Feel free to adjust or expand upon this documentation as needed for your project.
